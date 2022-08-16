@@ -29,7 +29,7 @@ git clone https://github.com/lumie31/GGCasino.git
 
 ## Live Demo
 
-A fully functional demo of this project is hosted on Netlify and is available here: https://gg-casino.app/
+A fully functional demo of this project is hosted on Netlify and is available here: https://gg-casino.netlify.app/
 
 ## App Features
 
