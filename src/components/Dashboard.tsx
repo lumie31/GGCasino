@@ -91,8 +91,8 @@ const Dashboard = () => {
   );
 
   const addGame = (event: any) => {
-    event.preventDefault();
     if (!gameTitle || gameTitle.length === 0) return;
+    event.preventDefault();
     const newGame = {
       id: Date.now(),
       img: rando,
