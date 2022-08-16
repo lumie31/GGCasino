@@ -47,3 +47,4 @@ A fully functional demo of this project is hosted on Netlify and is available he
 
 - Manage application state using Redux and Redux saga
 - Add Tests with Jest and React Testing Library
+- Proper Input Validation
