@@ -1,5 +1,7 @@
 # GG Casino
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2d5fc17-559d-4386-8a71-5cd6dca27ddd/deploy-status)](https://app.netlify.com/sites/gg-casino/deploys)
+
 GG Casino is a fictional casino company, where the employees can manage which games the users are able to play.
 
 ![Application Screenshot](./src/assets/App-Screenshot.png)
